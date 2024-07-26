@@ -284,76 +284,11 @@ margin:10px;
     margin: 20px;
 }
 .service img {
-  max-width: 300px;
+  max-width: 600px;
   height: 170px;
 }
 
-/*container explore*/
 
-.container-explore {
-  background-image: url("../images/coffee-shop.jpeg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50% 50%;
-  height: 650px;
-  width: 100%;
-  display: flex;
-  margin-bottom: 90px;}
-
-.container-explore p {
-  margin: 0px;}
-
-.container-explore h2, h3 {
-  margin: 10px;
-  color:var(--white);
-  text-transform:uppercase;}
-
-.explore {
-  background-color:#181818ae;
-  height: 100%;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 0 30px;}
-
-.menu,
-.locations {
-  padding-top: 40px;
-  padding-bottom: 40px;}
-
-.menu h2,
-.locations h2 {
-color: var(--white);}
-
-/* container about */
-.container-about {
-  padding: 0 10px;
-  margin-bottom: 70px;}
-
-.container-about p {
-  margin-top: 0px;
-}
-.container-about h2 {
-  margin: 0px;
-  padding-bottom: 20px;
-}
-
-.about {
-  display: flex;
-  flex-direction: column;
-}
-
-.about-img img{
-  width: 100%;
-}
-
-.about-story {
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
 
 /*testimonials*/
 
